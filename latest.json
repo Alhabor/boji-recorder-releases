@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
+  "versionCode": 4,
+  "versionName": "1.2.0",
   "minSdk": 26,
-  "sha256": "6acfc10ebe8e6bdd94447989ad606b502fea943bcf8c2b47098a03ef001a2e7d",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.1.0/BojiRecorder.apk",
-  "notes": "紫色系新界面，记录起来更有反馈。\n\n• 重做「力」字图标，圆润字体、厚边框和立体按钮。\n• 每次记数保存成功，短促双段震动反馈。\n• 数字弹跳和按钮回弹，支持系统关闭动画。\n• 自动跟随手机深色/浅色模式。\n• 正常覆盖更新保留原有记录。"
+  "sha256": "1b584ac84c6ed3f68ea8a640fe0f01a9246d4faf5c8c1850dad4650b749624d0",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.2.0/BojiRecorder.apk",
+  "notes": "薄肌记录器 1.2.0\n\n紫色主按钮配上天蓝、橙黄和粉色，继续采用圆润字形、立体按压与数字弹跳，自动跟随系统深浅模式。\n\n- 默认记数反馈改用手机系统原生触觉。\n- 在「⋯ → 震动反馈」分别试用系统按键、强劲震动、兼容震动，保存后用于每次记数。试震不会增加数量。\n- 系统触觉开关显示关闭时给出提示；可以复制诊断继续排查无反馈的手机。\n- 沿用原包名与签名，覆盖更新保留本机记录。\n\n已通过构建、现有计数/更新测试及 Android 15 模拟器验收；vivo X200s 的实际手感仍需手机试震确认。若三种均没有反馈，请复制诊断继续定位。"
 }

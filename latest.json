@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.1.0",
   "minSdk": 26,
-  "sha256": "df7d5a8d4ccd41ad645775fa13dd583deb2f3b087a5b29a26e7ee46ea87560e8",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.0.1/BojiRecorder.apk",
-  "notes": "首次正式版本：每天记录俯卧撑数量。\n\n• 快速累加，也可以输入一组数量、修改或补录。\n• 记录保存在手机本地，正常更新保留。\n• 发现新版本时提醒，手机内下载并进入安装确认。\n• 兼容 Android 8.0 及以上，重点适配 vivo X200s。"
+  "sha256": "6acfc10ebe8e6bdd94447989ad606b502fea943bcf8c2b47098a03ef001a2e7d",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.1.0/BojiRecorder.apk",
+  "notes": "紫色系新界面，记录起来更有反馈。\n\n• 重做「力」字图标，圆润字体、厚边框和立体按钮。\n• 每次记数保存成功，短促双段震动反馈。\n• 数字弹跳和按钮回弹，支持系统关闭动画。\n• 自动跟随手机深色/浅色模式。\n• 正常覆盖更新保留原有记录。"
 }

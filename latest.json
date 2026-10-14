@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.5",
+  "versionCode": 12,
+  "versionName": "1.4.6",
   "minSdk": 26,
-  "sha256": "de525e849728a7802a5a1e1deccd7a62fe7caabdaf92f3a1ef06b4f6b77a98fa",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.5/BojiRecorder.apk",
-  "notes": "今天累计俯卧撑数量首次超过昨天时，出现「超越昨天！」卡片与紫、蓝、橙、粉四色彩纸和星星庆祝。\n\n+1、快捷加数、记录一组和修改总数都支持。追平还不会触发，历史补记不触发；每天庆祝一次，重开 App 也不重复。动画期间可以继续记录，约 2.6 秒自动结束。跟随系统深浅模式，系统关闭动画时显示静态祝贺提示。\n\n覆盖更新保留全部记录与设置。"
+  "sha256": "bb30708a92445457a2a9e8942fd35c13f597b3f111dd5f269151a5d62e2364b9",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.6/BojiRecorder.apk",
+  "notes": "训练提醒和更新通知统一使用当前圆润的「力」字图标，替换旧提醒轮廓和系统下载图标。通知内容显示现有紫色 App 标识，小图标适应系统通知栏的单色显示。\n\n覆盖更新保留记录、提醒设置与庆祝动画。"
 }

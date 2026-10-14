@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.4.4",
+  "versionCode": 11,
+  "versionName": "1.4.5",
   "minSdk": 26,
-  "sha256": "6ecd335adaeb42893b9db643011fbbc91291efdf4cb50d662bd93ce0e2b2c663",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.4/BojiRecorder.apk",
-  "notes": "俯卧撑提醒支持手机顶部弹窗与锁屏显示，正常返回桌面后由系统唤起提醒。\n新增「允许准时提醒」及弹窗、后台设置入口，便于在 vivo 上开启悬浮通知、自启动和后台运行。\n保留原有记录、热力图、固定与偶尔随机提醒；当天已有记录就不再催促。"
+  "sha256": "de525e849728a7802a5a1e1deccd7a62fe7caabdaf92f3a1ef06b4f6b77a98fa",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.5/BojiRecorder.apk",
+  "notes": "今天累计俯卧撑数量首次超过昨天时，出现「超越昨天！」卡片与紫、蓝、橙、粉四色彩纸和星星庆祝。\n\n+1、快捷加数、记录一组和修改总数都支持。追平还不会触发，历史补记不触发；每天庆祝一次，重开 App 也不重复。动画期间可以继续记录，约 2.6 秒自动结束。跟随系统深浅模式，系统关闭动画时显示静态祝贺提示。\n\n覆盖更新保留全部记录与设置。"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.3",
+  "versionCode": 10,
+  "versionName": "1.4.4",
   "minSdk": 26,
-  "sha256": "9eb27fb5bdb3f1d8b479eec8b0b25532871999d275d3b76f6261edd7c20dc83f",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.3/BojiRecorder.apk",
-  "notes": "新增国内更新下载：打开 App 自动检查新版本，点击即可通过蒲公英下载并进入系统更新安装。\n保留原有俯卧撑记录、热力图、训练提醒与设置。源码继续由 GitHub 私有仓库管理。\n旧版需要先更新到 1.4.3，此后的正常更新可使用国内下载源。"
+  "sha256": "6ecd335adaeb42893b9db643011fbbc91291efdf4cb50d662bd93ce0e2b2c663",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.4/BojiRecorder.apk",
+  "notes": "俯卧撑提醒支持手机顶部弹窗与锁屏显示，正常返回桌面后由系统唤起提醒。\n新增「允许准时提醒」及弹窗、后台设置入口，便于在 vivo 上开启悬浮通知、自启动和后台运行。\n保留原有记录、热力图、固定与偶尔随机提醒；当天已有记录就不再催促。"
 }

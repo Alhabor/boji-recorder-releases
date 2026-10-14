@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.0",
+  "versionCode": 9,
+  "versionName": "1.4.3",
   "minSdk": 26,
-  "sha256": "bac51efea558dcd8e406a8f5e57a904c6ce2d2bc0db70dfd1d36c768dee0c153",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.0/BojiRecorder.apk",
-  "notes": "新增俯卧撑训练提醒：默认每天 20:00 固定提醒，12:00–18:00 偶尔随机提醒，每天最多额外一条。\n\n在「⋯ → 俯卧撑提醒」可修改时间和随机时段，关闭随机或全部提醒，并测试通知。当日已有俯卧撑记录就不再催促；点击通知回到今天，不会自动增加数量。\n\n允许通知后即可使用，设置在本机保存，重启和升级后恢复安排。安卓系统调度或省电可能延迟送达。保留原有记录、多彩界面、深浅模式和手机内更新方式。"
+  "sha256": "9eb27fb5bdb3f1d8b479eec8b0b25532871999d275d3b76f6261edd7c20dc83f",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.3/BojiRecorder.apk",
+  "notes": "新增国内更新下载：打开 App 自动检查新版本，点击即可通过蒲公英下载并进入系统更新安装。\n保留原有俯卧撑记录、热力图、训练提醒与设置。源码继续由 GitHub 私有仓库管理。\n旧版需要先更新到 1.4.3，此后的正常更新可使用国内下载源。"
 }

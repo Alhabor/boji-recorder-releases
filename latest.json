@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.6",
+  "versionCode": 13,
+  "versionName": "1.5.0",
   "minSdk": 26,
-  "sha256": "bb30708a92445457a2a9e8942fd35c13f597b3f111dd5f269151a5d62e2364b9",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.4.6/BojiRecorder.apk",
-  "notes": "训练提醒和更新通知统一使用当前圆润的「力」字图标，替换旧提醒轮廓和系统下载图标。通知内容显示现有紫色 App 标识，小图标适应系统通知栏的单色显示。\n\n覆盖更新保留记录、提醒设置与庆祝动画。"
+  "sha256": "f53abc9872f75f3db74259d806306529d34e7f240670f52dfa70b9cf0ec8f579",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.5.0/BojiRecorder.apk",
+  "notes": "热力图升级：日期移到色块上方，色块内直接显示当天完成数量与「个」，颜色和数字同时可读。\n\n已过去但没有完成的日期显示 0，未来日期显示短横线。保留深浅模式、月份切换和选中高亮；点日期或色块均可查看、补记。较长数字自动适应格子宽度。\n\n覆盖更新保留全部记录与设置。"
 }

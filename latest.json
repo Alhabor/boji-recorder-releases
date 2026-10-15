@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.5.0",
+  "versionCode": 14,
+  "versionName": "1.5.1",
   "minSdk": 26,
-  "sha256": "f53abc9872f75f3db74259d806306529d34e7f240670f52dfa70b9cf0ec8f579",
-  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.5.0/BojiRecorder.apk",
-  "notes": "热力图升级：日期移到色块上方，色块内直接显示当天完成数量与「个」，颜色和数字同时可读。\n\n已过去但没有完成的日期显示 0，未来日期显示短横线。保留深浅模式、月份切换和选中高亮；点日期或色块均可查看、补记。较长数字自动适应格子宽度。\n\n覆盖更新保留全部记录与设置。"
+  "sha256": "34fd622e0f2f1dbeb1d68c3698ec9cec69bba2462ce5311c811cf69803ccc76c",
+  "url": "https://github.com/Alhabor/boji-recorder-releases/releases/download/v1.5.1/BojiRecorder.apk",
+  "notes": "最近 7 天展示优化：\n- 七行大按钮改为紧凑柱状图，柱顶直接显示数量、底部显示日期，一眼比较每天变化。\n- 今天用橙色突出，右上角显示七天合计，点击任意一列仍可查看或补记。\n- 图表放到月度热力图上方；七天均无记录时收紧高度，支持系统深浅模式。\n- 保留已有俯卧撑记录、提醒、庆祝动画与手机内更新方式。直接覆盖升级，无需卸载。"
 }
